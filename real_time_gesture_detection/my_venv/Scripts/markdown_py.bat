@@ -1,0 +1,1 @@
+@"d:\projet am2\project_kojak-master\my_venv\scripts\python.exe" "d:\projet am2\project_kojak-master\my_venv\Scripts\markdown_py" %*
