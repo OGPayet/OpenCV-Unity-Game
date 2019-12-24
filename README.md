@@ -30,6 +30,7 @@ Il faut ajouter ces librairies au code du script joueur :
 ```
 using System.Net;
 using System.Net.Sockets;
+using System.Threading;
 ```
 
 Dans la class du joueur il faut ajouter ces variables :
