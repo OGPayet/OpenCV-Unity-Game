@@ -1,5 +1,11 @@
 # OpenCV-Unity-Game
 
+### Téléchargement du jeu Unity
+
+Le dossier du projet Unity étant trop volumineux pour être uploadé sur le github, voici le lien de téléchargement du projet :
+
+https://uptobox.com/nw1sf22eensx
+
 ### Utilisation du script opencv
 
 Il faut d'abord installer Miniconda3 :
